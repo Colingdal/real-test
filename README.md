@@ -14,3 +14,4 @@ Boilerplate code for a simple WebApp
 - `npm run setup-dev-properties` creates .dev-properties.json with information about the development environment
 
 [Visit developer.sitevision.se for more information](https://developer.sitevision.se)
+# dmc-ogtags2
