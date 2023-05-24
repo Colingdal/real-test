@@ -1,8 +1,15 @@
 # webapp-boilerplate
 
-Boilerplate code for a simple WebApp
+WebApp to get Open Graph tags. 
 
-Test
+The tags that are accessible are:
+<li> 
+Mandatory Ogtags
+Extra image tags
+Twitter tags
+Other Ogtags
+</li>
+
 
 ## Building
 
@@ -17,3 +24,9 @@ Test
 
 [Visit developer.sitevision.se for more information](https://developer.sitevision.se)
 # dmc-ogtags2
+WebApp to sign documents. The documents are stored in the SUS (Secure User Storage) Contains four different functionalities
+
+Sign document
+List signed documents
+List unsigned documents
+Sign unsigned document
