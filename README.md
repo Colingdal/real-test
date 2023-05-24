@@ -3,12 +3,11 @@
 WebApp to get Open Graph tags. 
 
 The tags that are accessible are:
-<li> 
-Mandatory Ogtags
-Extra image tags
-Twitter tags
-Other Ogtags
-</li>
+<li> Mandatory Ogtags
+<li>Extra image tags
+<li>Twitter tags
+<li>Other Ogtags
+
 
 
 ## Building
