@@ -22,10 +22,3 @@ The tags that are accessible are:
 - `npm run setup-dev-properties` creates .dev-properties.json with information about the development environment
 
 [Visit developer.sitevision.se for more information](https://developer.sitevision.se)
-# dmc-ogtags2
-WebApp to sign documents. The documents are stored in the SUS (Secure User Storage) Contains four different functionalities
-
-Sign document
-List signed documents
-List unsigned documents
-Sign unsigned document
