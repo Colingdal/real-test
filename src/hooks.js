@@ -23,7 +23,7 @@
 
    // Mandatory OGtags
    addHeadElement((req) => {  
-      let metastring = '<meta property="og:title" content="' + ogTitle + '">';  
+      let metastring = '<meta property="og:title" content="' + "hej" + '">';  
       if (properties.get(currentPage, 'og.description') !== null)
       { 
          metastring += '<meta property="og:description" content="' + properties.get(currentPage, 'og.description') + '">';
